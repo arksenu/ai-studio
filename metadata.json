@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "An all-in-one application to generate and edit images, video, and audio, chat with AI, and create storyboards using the power of the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
